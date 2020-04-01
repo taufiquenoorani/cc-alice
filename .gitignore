@@ -1,0 +1,8 @@
+## Ignore env
+.env
+
+## Ignore pycache
+__pycache__/
+
+## Ignore logs
+alice.log
